@@ -25,3 +25,5 @@ var server = http.createServer(function(req, res){
 		break;
 	}
 });
+
+server.listen(3000);
